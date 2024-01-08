@@ -3,10 +3,10 @@
   border-radius: 5px;
 }
 
-* {
+/* * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-}
+} */
 
 body {
   margin: auto;
@@ -88,7 +88,7 @@ h1 {
   -o-border-radius: 5px;
 }
 
-@-webkit-keyframes yellow-shadow {
+/* @-webkit-keyframes yellow-shadow {
   0% {
     top: 0;
     left: 0;
@@ -205,7 +205,7 @@ h1 {
     -webkit-box-shadow: 0 0 17px 3px #c586c0, 0 0 4px 2px #c586c0;
     box-shadow: 0 0 17px 3px #c586c0, 0 0 4px 2px #c586c0;
   }
-}
+} */
 
 @keyframes gradient-shadow {
   0% {
